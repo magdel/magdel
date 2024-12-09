@@ -22,10 +22,11 @@ I'm an **Software application developer**.
 
 ---
 
-![Java](https://img.shields.io/badge/Java?style=flat&logo=java&logoColor=blue)
-![Java](https://img.shields.io/badge/Delphi?logo=Delphi&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-
+![Java](https://img.shields.io/badge/Java-blue)
+![Delphi](https://img.shields.io/badge/Delphi-blue)
+![Pascal](https://img.shields.io/badge/Pascal-blue)
+![Asm](https://img.shields.io/badge/Asm-blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
+![DB2](https://img.shields.io/badge/DB2-blue)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-blue)
+![Javascript](https://img.shields.io/badge/Javascript-blue)
