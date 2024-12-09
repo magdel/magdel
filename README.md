@@ -22,5 +22,10 @@ I'm an **Software application developer**.
 
 ---
 
+![Java](https://img.shields.io/badge/Java?style=flat&logo=java&logoColor=blue)
+![Java](https://img.shields.io/badge/Delphi?logo=Delphi&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 
