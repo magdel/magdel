@@ -13,8 +13,7 @@ I'm an **Software application developer**.
 
 ### 📈 GitHub Stats
 
-#### **This account stats & Main account stats**
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=magdel&layout=compact&theme=radical)](https://github.com/magdel)
+#### **This account stats**
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=magdel&layout=compact&theme=radical)](https://github.com/magdel)
 
 ### 🔗 Connect with Me:
