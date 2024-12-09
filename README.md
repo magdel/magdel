@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi there, I'm Pavel 
 
-<!--
-**magdel/magdel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Specializations:
 
-Here are some ideas to get you started:
+I'm an **Software application developer**.
+- **Backend** Backend application development with Java.
+- **GUI** Developing GUI applications for Windows with Delphi.
+- **Embedding** Learning and practicing firmware developing for Arduino projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 In My Spare Time:
+- 🌐 Experimenting/developing Arduino projects.
+- 🎯 Fine-tuning and optimizing various algorithms.
+
+### 📈 GitHub Stats
+
+#### **This account stats & Main account stats**
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=magdel&layout=compact&theme=radical)](https://github.com/magdel)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=magdel&layout=compact&theme=radical)](https://github.com/magdel)
+
+### 🔗 Connect with Me:
+- 🐈 **[GitHub: magdel](https://github.com/magdel)**
+- 🔗 **[LinkedIn](https://www.linkedin.com/in/magdel/)**
+
+---
+
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+
