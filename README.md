@@ -18,7 +18,6 @@ I'm an **Software application developer**.
 
 ### 🔗 Connect with Me:
 - 🐈 **[GitHub: magdel](https://github.com/magdel)**
-- 🔗 **[LinkedIn](https://www.linkedin.com/in/magdel/)**
 
 ---
 
